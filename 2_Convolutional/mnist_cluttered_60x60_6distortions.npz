@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html id="html" xmlns="http://www.w3.org/1999/xhtml" lang="da" xml:lang="da">
+<head>
+<title>BLOKERET SITE - BLOCKED SITE</title>
+<meta charset="UTF-8"/>
+<!--[if ie]><meta content="IE=egde" http-equiv="X-UA-Compatible" /><![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1"/>
+<link rel="stylesheet" type="text/css" href="/css/base_desktop.min.css?ver=1400" media="all"/>
+<link rel="shortcut icon" href="images/favicon.ico"/>
+</head>
+<body id="body" class="_404 errorPage">
+<div class="globalcontainer">
+	<header>
+	<div class="pageheadercontainer">
+		<div class="pageheader">
+			<div id="PageHeaderOverlay" class="pageheaderoverlay">
+				<div class="container_12">
+					<div class="grid_6 pageheadertop sitelogo linkset4 ">
+						<a id="ctl01_Link1" title="Danmarks Tekniske Universitet" href="/">
+						<img id="Image1" title="Danmarks Tekniske Universitet" class="logo websitelogo"
+						src="/images/dtulogo_colour.png" alt="Danmarks Tekniske Universitet" style="border-width:0px;"/>
+						</a>
+					</div>
+					<div class="grid_3 alpha pageheadertop">
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+		</header>
+		<section>
+		<div class="container_12">
+			<div class='grid_12 errorBox'>
+				<div class='innerPrimary '>
+					<div class='inner'>
+						<h1 id="content_0_Text1">ADVARSEL - Dette
+						web-site er blokeret af DTU!</h1>
+						<div id="content_0_Text2" class="TextPrimaryLanguage">
+							<p>Du er p&aring; vej ind p&aring; en hjemmeside, der
+							vurderes som skadelig og u&oslash;sket i forhold til at
+							opretholde et passende niveau af informationssikkerhed
+							p&aring; DTU. Derfor har vi fundet det n&oslash;dvendigt at blokere for adgang til
+							hjemmesiden.<br><br>
+Hvis du har sp&oslash;rgsm&aring;l til dette eller mener denne
+							sp&aelig;rring er
+							fejlagtigt, beder vi dig
+							<a href='mailto:ait-servicedesk@adm.dtu.dk'>kontakte IT</a> 
+							og oplyse, hvilken hjemmeside det er, du fors&oslash;ger at
+							tilg&aring;, og din vurdering af web-sitets indhold
+							og relevans.<br><br>
+							Hvis du allerede har bes&oslash;gt den sp&aelig;rrede hjemmeside
+							og indtastet personlige oplysninger, bedes du skifte dit password omg&aring;ende og dern&aelig;st kontakte IT.<br><br>Med venlig hilsen AIT
+</p>
+						</div>
+						<h1 id="content_0_Text1">WARNING - This
+						web-site has been blocked by DTU!</h1>
+						<div id="content_0_Text2" class="TextPrimaryLanguage">
+							<p>You are trying to visit a web-site
+							which is considered harmful and unwanted
+							in the intest of maintaining an
+							acceptable level of Information Security
+							at DTU.
+							We have therefore found it necessary to block any access to the
+							site.<br><br>
+							If you have any questions or find this decision to be incorrect we ask you
+							to please
+							<a href='mailto:ait-servicedesk@adm.dtu.dk'> contact IT </a> with information about which site it is you are trying to
+							access, your opinion and relevance 
+							of the content.<br><br>
+If you have already visited the blocked site and entered personal
+							information we ask you to change your password immediately and then contact IT.<br><br>
+Best regards, AIT
+</p>
+						</div>
+						<div>
+
+						</div>
+					</div>
+				</div>
+		</div>
+	</div>
+	</section>
+</div>
+</body>
+</html>
